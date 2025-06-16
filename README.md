@@ -1,10 +1,11 @@
-# 📡 Node.js Basic HTTP Server
+# 📡 Node.js Basic HTTP Server 
 
 A lightweight and beginner-friendly HTTP server built using **Node.js**. This project is a foundational setup for building APIs, handling HTTP requests, and learning core backend development. 
 
 ---
 
 ## 🚀 Features
+
 🔌 Handles basic HTTP requests  
 🌐 Returns plain text or HTML responses  
 🧱 Minimal and extensible structure  
