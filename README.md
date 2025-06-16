@@ -2,7 +2,6 @@
 
 A lightweight and beginner-friendly HTTP server built using **Node.js**. This project is a foundational setup for building APIs, handling HTTP requests, and learning core backend development.
 
-
 ---
 
 ## 🚀 Features
